@@ -86,7 +86,7 @@ include the code that creates the PNG file.
 
 When you are finished with the assignment, push your git repository to
 GitHub so that the GitHub version of your repository is up to
-date. There should be four PNG files and four R code files.
+date. There should be 4 PNG files and four R code files.
 
 
 The four plots that you will need to construct are shown below. 

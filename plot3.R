@@ -29,7 +29,7 @@ power.select$gap.kw = as.numeric(power.select$Global_active_power)
 
 png("plot3.png")
 
-par(mar=c(4,4,4,1))
+par(mar=c(4,4,4,2))
 
 plot(power.select$datetime, power.select$Sub_metering_1, type="l",
      ylab="Energy sub metering",xlab="")
