@@ -1,6 +1,6 @@
 # Project 1 - Plot 1
 #
-# R. Werezak
+# R. Werezak 13JUL2014
 
 # Loading the data ...
 
