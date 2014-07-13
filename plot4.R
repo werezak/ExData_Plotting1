@@ -29,7 +29,7 @@ power.select$gap.kw = as.numeric(power.select$Global_active_power)
 
 png("plot4.png")
 
-par(mar=c(4,4,4,1))
+par(mar=c(4,4,4,2))
 
 par(mfcol=c(2,2))
 
